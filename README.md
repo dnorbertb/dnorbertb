@@ -1,10 +1,10 @@
 ## Hi there 👋
-I'm Norbert, web developer from Poland, currently living in Ski, Norway.
+I'm Norbert, web developer from Poland.
 
 ### Skills
 - 👨‍💻 TypeScript, JavaScript, Node.js
-- ⚙️ React, React Native, Vue2, Vue3, Next.js, Astro, Express
-- 👁️ SCSS, CSS, TailwindCSS, Vuetify, Styled Components
+- ⚙️ React, Next.js, React Native, Vue2, Vue3, Nuxt, NestJS
+- 👁️ SCSS, CSS, TailwindCSS, Vuetify, NuxtUI, Shadcn
 - 💽 MongoDB, PostgreSQL
 
 ### Contact
